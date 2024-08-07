@@ -190,7 +190,7 @@ function App() {
                       <option value="mittens">Рукавицы</option>
                     </Form.Select>
                     {errors2.cloth && (
-                      <p style={{color: "red"}}>{errors2.cloth.message}</p>
+                        <p style={{color: "red"}}>{errors2.cloth.message}</p>
                     )}
                   </Form.Group>
 
