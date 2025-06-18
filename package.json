@@ -11,7 +11,7 @@
     "@types/node": "^16.18.104",
     "@types/react": "^18.3.13",
     "@types/react-dom": "^18.3.1",
-    "bootstrap": "^5.3.6",
+    "bootstrap": "^5.3.7",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^18.3.1",
